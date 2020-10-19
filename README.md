@@ -1,10 +1,6 @@
-# README #
+# LARAVEL BLOG APP #
 A simple Blog laravel application that allow users to register ,login write post and comments
 
-### A simple blog laravel applicaton###
-
-* Quick summary
-* Version 1.0
 
 ### How do I get set up? ###
 
